@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hw-ra39-react-component-class/static/css/main.289e310a.css",
+    "main.js": "/hw-ra39-react-component-class/static/js/main.b3184868.js",
+    "static/js/787.07d66acf.chunk.js": "/hw-ra39-react-component-class/static/js/787.07d66acf.chunk.js",
+    "index.html": "/hw-ra39-react-component-class/index.html",
+    "main.289e310a.css.map": "/hw-ra39-react-component-class/static/css/main.289e310a.css.map",
+    "main.b3184868.js.map": "/hw-ra39-react-component-class/static/js/main.b3184868.js.map",
+    "787.07d66acf.chunk.js.map": "/hw-ra39-react-component-class/static/js/787.07d66acf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.289e310a.css",
+    "static/js/main.b3184868.js"
+  ]
+}
